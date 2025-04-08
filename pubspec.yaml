@@ -1,0 +1,70 @@
+name: app_cities_flutter
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  flutter_localizations:
+    sdk: flutter
+
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/Logo-Flutter.jpg
+    - assets/delhi.jpg
+    - assets/london.jpg
+    - assets/vancouver.jpg
+    - assets/newyork.jpg
+    - assets/tokyo.jpg
+    - assets/paris.jpg
+    - assets/sydney.jpg
+    - assets/riodejaneiro.jpg
+    - assets/moscow.jpg
+    - assets/elcairo.jpg
+    - assets/barcelona.jpg
+    - assets/berlin.jpg
+    - assets/dubai.jpg
+    - assets/rome.jpg
+    - assets/beijing.jpg
+    - assets/buenosaires.jpg
+    - assets/losangeles.jpg
+    - assets/bangkok.jpg
+    - assets/logoapp.png
+    - assets/product-bangkok.jpg
+    - assets/product-barcelona.jpg
+    - assets/product-beijing.jpg
+    - assets/product-berlin.jpg
+    - assets/product-buenosaires.jpg
+    - assets/product-delhi.jpg
+    - assets/product-dubai.jpg
+    - assets/product-elcairo.jpg
+    - assets/product-london.jpg
+    - assets/product-losangeles.jpg
+    - assets/product-moscow.jpg
+    - assets/product-newyork.jpg
+    - assets/product-paris.jpg
+    - assets/product-rio.jpg
+    - assets/product-rome.jpg
+    - assets/product-sydney.jpg
+    - assets/product-tokyo.jpg
+    - assets/product-vancouver.jpg

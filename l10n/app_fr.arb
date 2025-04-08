@@ -1,0 +1,176 @@
+{
+
+  "@@locale": "fr",
+
+
+
+  "explore_world": "Explorer le monde",
+
+
+
+  "correctPassword": "Utilisateur correct",
+  "incorrectPassword": "Utilisateur incorrect",
+  "loginPage": "Login",
+  "user": "Utilisateur",
+  "mandatoryUser": "L'utilisateur est obligatoire",
+  "password": "Mot de passe",
+  "mandatoryPassword": "Le mot de passe est obligatoire",
+  "forgot_password": "Mot de passe oublié",
+  "login": "Connexion",
+  "newUser": "Nouvel utilisateur ? Créer un compte",
+
+
+
+  "hello": "Bonjour {username}!",
+
+  "cities": "Villes",
+  "products": "Produits",
+
+  "city_delhi": "Delhi",
+  "country_india": "Inde",
+  "description_delhi": "Delhi, la capitale de l'Inde, est une métropole vibrante qui allie histoire et modernité. Connue pour son riche patrimoine culturel, elle abrite des monuments emblématiques tels que le Fort Rouge et la Porte de l'Inde. Son marché de Chandni Chowk offre une expérience unique, tandis que New Delhi, conçue par les Britanniques, présente de larges avenues et des bâtiments gouvernementaux majestueux. C'est une destination qui fusionne tradition et progrès en un seul lieu.",
+
+  "city_london": "Londres",
+  "country_britain": "Royaume-Uni",
+  "description_london": "Londres, la capitale de l'Angleterre et du Royaume-Uni, est une ville cosmopolite à l'histoire fascinante. Célèbre pour ses monuments tels que Big Ben, la Tour de Londres et le Palais de Buckingham, elle possède également des espaces modernes comme le London Eye et le quartier financier de Canary Wharf. C'est un centre culturel et économique mondial.",
+
+  "city_vancouver": "Vancouver",
+  "country_canada": "Canada",
+  "description_vancouver": "Vancouver, sur la côte ouest du Canada, combine des paysages naturels impressionnants avec une vie urbaine dynamique. Entourée de montagnes et de l'océan Pacifique, la ville est idéale pour des activités de plein air telles que le ski, la randonnée et le cyclisme. Sa diversité culturelle se reflète dans sa gastronomie et ses festivals.",
+
+  "city_new_york": "New York",
+  "country_usa": "États-Unis",
+  "description_new_york": "New York, connue sous le nom de la Grosse Pomme, est une métropole dynamique et vibrante. Elle abrite des lieux emblématiques tels que la Statue de la Liberté, Times Square et Central Park, et se distingue par sa diversité culturelle, avec une offre gastronomique, artistique et commerciale inégalée.",
+
+  "city_tokyo": "Tokyo",
+  "country_japan": "Japon",
+  "description_tokyo": "Tokyo, la capitale du Japon, est un mélange fascinant de tradition et de modernité. Connue pour son architecture futuriste, ses temples historiques comme le Senso-ji et ses quartiers animés comme Shibuya et Akihabara, la ville offre une expérience unique et vibrante.",
+
+  "city_paris": "Paris",
+  "country_france": "France",
+  "description_paris": "Paris, la capitale de la France, est une destination mondialement célèbre pour son élégance et son romantisme. Des icônes telles que la Tour Eiffel, le musée du Louvre et la cathédrale Notre-Dame dominent son paysage urbain, tandis que sa gastronomie et sa mode influencent les tendances mondiales.",
+
+  "city_sydney": "Sydney",
+  "country_australia": "Australie",
+  "description_sydney": "Sydney, la plus grande ville d'Australie, est connue pour son Opéra, son emblématique Harbour Bridge et ses plages comme Bondi et Manly. Avec un climat chaud et une vie culturelle dynamique, c'est une destination qui allie détente et sophistication.",
+
+  "city_rio": "Rio de Janeiro",
+  "country_brazil": "Brésil",
+  "description_rio": "Rio de Janeiro, au Brésil, est connue pour son carnaval coloré, ses plages célèbres comme Copacabana et le Christ Rédempteur, qui domine le paysage depuis le mont du Corcovado. C'est une ville pleine de rythme, de samba et de beauté naturelle.",
+
+  "city_moscow": "Moscou",
+  "country_russia": "Russie",
+  "description_moscow": "Moscou, la capitale de la Russie, est un centre politique et culturel aux siècles d'histoire. La Place Rouge, la cathédrale Saint-Basile et le Kremlin sont des symboles de son riche patrimoine, tandis que sa vie contemporaine comprend des théâtres, des musées et des restaurants renommés.",
+
+  "city_cairo": "Le Caire",
+  "country_egypt": "Égypte",
+  "description_cairo": "Le Caire, la capitale de l'Égypte, est une ville vibrante située au bord du Nil, célèbre pour les majestueuses pyramides de Gizeh et le Grand Sphinx. Avec des marchés comme Khan el-Khalili et une riche histoire pharaonique, c'est une destination unique au monde.",
+
+  "city_barcelona": "Barcelone",
+  "country_spain": "Espagne",
+  "description_barcelona": "Barcelone, sur la côte méditerranéenne de l'Espagne, est célèbre pour son architecture moderniste, ses plages animées et sa vie nocturne vibrante. La Sagrada Familia et le Parc Güell comptent parmi ses principales attractions touristiques.",
+
+  "city_berlin": "Berlin",
+  "country_germany": "Allemagne",
+  "description_berlin": "Berlin, la capitale de l'Allemagne, est une ville au passé fascinant et à la scène artistique dynamique. De la Porte de Brandebourg à l'Île aux Musées, elle offre un mélange de modernité et de tradition.",
+
+  "city_dubai": "Dubaï",
+  "country_uae": "Émirats Arabes Unis",
+  "description_dubai": "Dubaï, aux Émirats Arabes Unis, est connue pour son luxe et sa modernité. Le Burj Khalifa, le Dubai Mall et les îles artificielles font de cette ville une destination unique.",
+
+  "city_rome": "Rome",
+  "country_italy": "Italie",
+  "description_rome": "Rome, la capitale de l'Italie, est une ville chargée d'histoire, abritant le Colisée, le Vatican et la Fontaine de Trevi. Sa gastronomie et sa culture en font l'une des destinations les plus visitées au monde.",
+
+  "city_beijing": "Pékin",
+  "country_china": "Chine",
+  "description_beijing": "Pékin, la capitale de la Chine, est une ville au riche passé impérial. La Cité Interdite, la Grande Muraille et le Temple du Ciel comptent parmi ses principaux sites touristiques.",
+
+  "city_buenos_aires": "Buenos Aires",
+  "country_argentina": "Argentine",
+  "description_buenos_aires": "Buenos Aires, la capitale de l'Argentine, est connue pour son tango, son architecture européenne et sa vie nocturne animée. Le quartier de La Boca et l'Obélisque figurent parmi ses principales attractions.",
+
+  "city_los_angeles": "Los Angeles",
+  "country_usa": "États-Unis",
+  "description_los_angeles": "Los Angeles, en Californie, est la capitale mondiale du divertissement. De Hollywood à Santa Monica, la ville offre un mélange unique de plages, de culture et de cinéma.",
+
+  "city_bangkok": "Bangkok",
+  "country_thailand": "Thaïlande",
+  "description_bangkok": "Bangkok, la capitale de la Thaïlande, est connue pour ses temples richement ornés, sa vie de rue animée et sa gastronomie. Le Grand Palais et le temple de Wat Arun comptent parmi ses principales attractions.",
+
+  "population": "Population",
+
+  "deleteCity": "Supprimer la ville",
+  "confirmDeletion": "Confirmer la suppression",
+  "confirmDeleteCity": "Êtes-vous sûr de vouloir supprimer cette ville ?",
+  "cancel": "Annuler",
+  "delete": "Supprimer",
+
+
+
+  "product_delhi": "Miniature du Fort Rouge",
+  "product_description_delhi": "Réplique miniature de l’emblématique Fort Rouge de Delhi, l’une des structures les plus emblématiques de l’Inde. Cette pièce soigneusement détaillée capture la majesté de l’architecture moghole et est idéale comme souvenir décoratif ou comme cadeau spécial pour les amateurs d’histoire et de culture indienne.",
+
+  "product_london": "Boîte de thé anglais",
+  "product_description_london": "Sélection de thés anglais haut de gamme présentée dans une élégante boîte en bois décorative. Comprend une variété de mélanges classiques tels que l’Earl Grey et l’English Breakfast, parfaits pour profiter d’une véritable expérience britannique à la maison.",
+
+  "product_vancouver": "Aimant de Vancouver",
+  "product_description_vancouver": "Aimant pour réfrigérateur avec des illustrations vibrantes des paysages les plus représentatifs de Vancouver, y compris ses montagnes, ses parcs et le célèbre skyline de la ville. Parfait pour les collectionneurs et les amateurs de voyages.",
+
+  "product_new_york": "Guide de New York",
+  "product_description_new_york": "Livre avec des informations détaillées sur les sites touristiques les plus emblématiques de New York. Contient des cartes, des conseils de voyage, des informations historiques et des recommandations de restaurants et d'activités culturelles pour explorer la ville qui ne dort jamais.",
+
+  "product_tokyo": "Kimono japonais",
+  "product_description_tokyo": "Kimono japonais traditionnel en coton avec des motifs inspirés de la culture nipponne. Confectionné avec des matériaux de haute qualité, ce kimono est idéal aussi bien pour des occasions spéciales que pour être porté comme vêtement de détente élégant à la maison.",
+
+  "product_paris": "Souvenir de Paris",
+  "product_description_paris": "Miniature de la Tour Eiffel en métal, un souvenir classique de la ville de l’amour. Son design détaillé et sa finition métallique en font une pièce idéale pour décorer des étagères ou des bureaux avec une touche parisienne.",
+
+  "product_sydney": "Boomerang australien",
+  "product_description_sydney": "Boomerang artisanal peint à la main avec des motifs de la culture aborigène australienne. Chaque pièce est unique, décorée avec des couleurs vibrantes et des motifs traditionnels, ce qui en fait un excellent cadeau ou un objet de décoration culturelle.",
+
+  "product_rio": "Figurine du Christ Rédempteur",
+  "product_description_rio": "Miniature détaillée du Christ Rédempteur de Rio de Janeiro, l’un des monuments les plus célèbres du monde. Son design en résine capture la grandeur de cette statue emblématique, en faisant un souvenir parfait pour les voyageurs amoureux du Brésil.",
+
+  "product_moscow": "Matriochka russe",
+  "product_description_moscow": "Ensemble de poupées russes traditionnelles peintes à la main, représentant l’artisanat russe emblématique. Ces poupées gigognes symbolisent la famille et la continuité, et constituent une pièce décorative unique et chargée d’histoire.",
+
+  "product_cairo": "Papyrus égyptien",
+  "product_description_cairo": "Papyrus authentique fait à la main avec des hiéroglyphes égyptiens représentant des scènes de l'Égypte antique. Un souvenir idéal pour les passionnés d’histoire et d’archéologie, parfait pour être encadré et exposé.",
+
+  "product_barcelona": "Vin espagnol",
+  "product_description_barcelona": "Bouteille de vin rouge réserve de Barcelone, élaborée avec des raisins sélectionnés provenant de vignobles catalans. Son goût équilibré et son arôme fruité en font un excellent choix pour accompagner des dîners spéciaux et des moments inoubliables.",
+
+  "product_berlin": "Tasse de Berlin",
+  "product_description_berlin": "Tasse en céramique avec des illustrations des monuments les plus emblématiques de Berlin, comme la Porte de Brandebourg et la Tour de Télévision. Parfaite pour les amateurs de café et les souvenirs de voyage.",
+
+  "product_dubai": "Parfum arabe",
+  "product_description_dubai": "Parfum aux essences exotiques de Dubaï, inspiré des fragrances traditionnelles du Moyen-Orient. Avec des notes de oud, d'ambre et d’épices, ce parfum offre une expérience olfactive unique et luxueuse.",
+
+  "product_rome": "Café italien",
+  "product_description_rome": "Paquet de café espresso italien de haute qualité, élaboré avec des grains sélectionnés et torréfiés selon la tradition italienne. Idéal pour préparer un café corsé et intense, digne d’un véritable café romain.",
+
+  "product_beijing": "Figurine de la Grande Muraille",
+  "product_description_beijing": "Miniature de la Grande Muraille de Chine en résine, capturant la majesté de cette merveille du monde. Un souvenir parfait pour ceux qui souhaitent emporter un morceau de l’histoire et de la culture chinoises chez eux.",
+
+  "product_buenos_aires": "Sac en cuir argentin",
+  "product_description_buenos_aires": "Sac artisanal en cuir véritable de Buenos Aires, fabriqué par des maîtres artisans. Son design élégant et durable en fait un accessoire polyvalent pour un usage quotidien ou comme un cadeau spécial.",
+
+  "product_los_angeles": "T-shirt Hollywood",
+  "product_description_los_angeles": "T-shirt avec l’emblématique panneau Hollywood imprimé, un souvenir classique de Los Angeles. Fabriqué en coton doux et de haute qualité, il est parfait pour les amateurs de cinéma et de divertissement.",
+
+  "product_bangkok": "Lanterne thaïlandaise",
+  "product_description_bangkok": "Lanterne en papier utilisée lors des festivals de Bangkok, décorée avec des motifs traditionnels thaïlandais. Une magnifique décoration symbolisant la lumière et l’espoir, idéale pour les célébrations et la décoration intérieure.",
+
+  "deleteProduct": "Annuler le produit",
+  "confirmDeletion": "Confirmer la suppression",
+  "confirmDeleteProduct": "Voulez-vous éliminer ce produit?",
+  "cancel": "Annuler",
+  "delete": "Supprimer",
+
+
+
+  "shopping": "Produits"
+
+
+}

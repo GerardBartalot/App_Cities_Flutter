@@ -1,0 +1,176 @@
+{
+
+  "@@locale": "es",
+  
+
+
+  "explore_world": "Explorando el mundo",
+
+
+
+  "correctPassword": "Usuario correcto",
+  "incorrectPassword": "Usuario incorrecto",
+  "loginPage": "Login",
+  "user": "Usuario",
+  "mandatoryUser": "El usuario es obligatorio",
+  "password": "Contraseña",
+  "mandatoryPassword": "La contraseña es obligatoria",
+  "forgot_password": "Contraseña olvidada",
+  "login": "Login",
+  "newUser": "¿Eres nuevo? Créate una cuenta",
+
+
+
+  "hello": "¡Hola {username}!",
+  
+  "cities": "Ciudades",
+  "products": "Productos",
+
+  "city_delhi": "Delhi",
+  "country_india": "India",
+  "description_delhi": "Delhi, la capital de la India, es una metrópolis vibrante que combina historia y modernidad. Conocida por su rico patrimonio cultural, alberga monumentos emblemáticos como el Fuerte Rojo y la Puerta de la India. Su mercado de Chandni Chowk ofrece una experiencia única, mientras que Nueva Delhi, diseñada por los británicos, presenta amplias avenidas y edificios gubernamentales majestuosos. Es un destino que fusiona tradición y progreso en un solo lugar.",
+    
+  "city_london": "Londres",
+  "country_britain": "Reino Unido",
+  "description_london": "Londres, la capital de Inglaterra y el Reino Unido, es una ciudad cosmopolita con una historia fascinante. Famosa por monumentos como el Big Ben, la Torre de Londres y el Palacio de Buckingham, también cuenta con modernos espacios como el London Eye y el distrito financiero de Canary Wharf. Es un centro cultural y económico global.",
+    
+  "city_vancouver": "Vancouver",
+  "country_canada": "Canadá",
+  "description_vancouver": "Vancouver, en la costa oeste de Canadá, combina paisajes naturales impresionantes con una vibrante vida urbana. Rodeada por montañas y el océano Pacífico, la ciudad es ideal para actividades al aire libre como esquí, senderismo y ciclismo. Su diversidad cultural se refleja en su gastronomía y festivales.",
+    
+  "city_new_york": "Nueva York",
+  "country_usa": "Estados Unidos",
+  "description_new_york": "Nueva York, conocida como la Gran Manzana, es una metrópolis dinámica y vibrante. Hogar de lugares icónicos como la Estatua de la Libertad, Times Square y Central Park, también destaca por su diversidad cultural, con una oferta gastronómica, artística y comercial sin igual.",
+    
+  "city_tokyo": "Tokio",
+  "country_japan": "Japón",
+  "description_tokyo": "Tokio, la capital de Japón, es una mezcla fascinante de tradición y modernidad. Conocida por su arquitectura futurista, templos históricos como el Senso-ji y sus barrios animados como Shibuya y Akihabara, la ciudad ofrece una experiencia única y vibrante.",
+    
+  "city_paris": "París",
+  "country_france": "Francia",
+  "description_paris": "París, la capital de Francia, es un destino mundialmente famoso por su elegancia y romanticismo. Iconos como la Torre Eiffel, el museo del Louvre y la Catedral de Notre Dame destacan en su paisaje urbano, mientras que su gastronomía y su moda marcan tendencias globales.",
+    
+  "city_sydney": "Sídney",
+  "country_australia": "Australia",
+  "description_sydney": "Sídney, la ciudad más grande de Australia, es conocida por su Ópera, el icónico Puente del Puerto y sus playas como Bondi y Manly. Con un clima cálido y una vibrante vida cultural, es un destino que combina relajación y sofisticación.",
+    
+  "city_rio": "Río de Janeiro",
+  "country_brazil": "Brasil",
+  "description_rio": "Río de Janeiro, en Brasil, es conocida por su carnaval colorido, playas famosas como Copacabana y el Cristo Redentor, que domina el paisaje desde el Cerro del Corcovado. Es una ciudad llena de ritmo, samba y belleza natural.",
+    
+  "city_moscow": "Moscú",
+  "country_russia": "Rusia",
+  "description_moscow": "Moscú, la capital de Rusia, es un centro político y cultural con siglos de historia. La Plaza Roja, la Catedral de San Basilio y el Kremlin son símbolos de su rica herencia, mientras que su vida contemporánea incluye teatros, museos y restaurantes de renombre.",
+    
+  "city_cairo": "El Cairo",
+  "country_egypt": "Egipto",
+  "description_cairo": "El Cairo, la capital de Egipto, es una ciudad vibrante junto al río Nilo, famosa por las majestuosas Pirámides de Giza y la Gran Esfinge. Con mercados como Khan el-Khalili y una rica historia faraónica, es un destino único en el mundo.",
+
+  "city_barcelona": "Barcelona",
+  "country_spain": "España",
+  "description_barcelona": "Barcelona, en la costa mediterránea de España, es famosa por su arquitectura modernista, playas vibrantes y la animada vida nocturna. La Sagrada Familia y el Parque Güell son algunos de sus principales atractivos turísticos.",
+    
+  "city_berlin": "Berlín",
+  "country_germany": "Alemania",
+  "description_berlin": "Berlín, la capital de Alemania, es una ciudad con una historia fascinante y un vibrante panorama artístico. Desde la Puerta de Brandeburgo hasta la Isla de los Museos, ofrece una mezcla de modernidad y tradición.",
+    
+  "city_dubai": "Dubái",
+  "country_uae": "Emiratos Árabes Unidos",
+  "description_dubai": "Dubái, en los Emiratos Árabes Unidos, es conocida por su lujo y modernidad. El Burj Khalifa, el centro comercial Dubai Mall y las islas artificiales hacen de esta ciudad un destino único.",
+    
+  "city_rome": "Roma",
+  "country_italy": "Italia",
+  "description_rome": "Roma, la capital de Italia, es una ciudad llena de historia, hogar del Coliseo, el Vaticano y la Fontana di Trevi. Su gastronomía y cultura la convierten en uno de los destinos más visitados del mundo.",
+    
+  "city_beijing": "Pekín",
+  "country_china": "China",
+  "description_beijing": "Pekín, la capital de China, es una ciudad con una rica historia imperial. La Ciudad Prohibida, la Gran Muralla y el Templo del Cielo son algunos de sus puntos turísticos más importantes.",
+    
+  "city_buenos_aires": "Buenos Aires",
+  "country_argentina": "Argentina",
+  "description_buenos_aires": "Buenos Aires, la capital de Argentina, es conocida por su tango, su arquitectura europea y su vibrante vida nocturna. El barrio de La Boca y el Obelisco son sus principales atractivos.",
+    
+  "city_los_angeles": "Los Ángeles",
+  "country_usa": "Estados Unidos",
+  "description_los_angeles": "Los Ángeles, en California, es la capital mundial del entretenimiento. Desde Hollywood hasta Santa Mónica, la ciudad ofrece una combinación de playas, cultura y cine.",
+    
+  "city_bangkok": "Bangkok",
+  "country_thailand": "Tailandia",
+  "description_bangkok": "Bangkok, la capital de Tailandia, es conocida por sus templos ornamentados, su vibrante vida callejera y su gastronomía. El Gran Palacio y el templo de Wat Arun son sus principales atractivos.",
+
+  "population": "Población",
+
+  "deleteCity": "Eliminar Ciudad",
+  "confirmDeletion": "Confirmar eliminación",
+  "confirmDeleteCity": "¿Estás seguro de que deseas eliminar esta ciudad?",
+  "cancel": "Cancelar",
+  "delete": "Eliminar",
+
+
+
+  "product_delhi": "Miniatura del Fuerte Rojo",
+  "product_description_delhi": "Réplica en miniatura del emblemático Fuerte Rojo de Delhi, una de las estructuras más icónicas de la India. Esta pieza cuidadosamente detallada captura la majestuosidad de la arquitectura mogol y es ideal como recuerdo decorativo o como regalo especial para los amantes de la historia y la cultura india.",
+
+  "product_london": "Caja de té inglés",
+  "product_description_london": "Selección de té inglés premium presentada en una elegante caja de madera decorativa. Incluye una variedad de mezclas clásicas como Earl Grey y English Breakfast, perfectas para disfrutar de una auténtica experiencia británica desde la comodidad del hogar.",
+
+  "product_vancouver": "Imán de Vancouver",
+  "product_description_vancouver": "Imán de nevera con ilustraciones vibrantes de los paisajes más representativos de Vancouver, incluyendo sus montañas, parques y el emblemático skyline de la ciudad. Perfecto para coleccionistas y amantes de los viajes.",
+
+  "product_new_york": "Guía de Nueva York",
+  "product_description_new_york": "Libro con información detallada sobre los lugares turísticos más emblemáticos de Nueva York. Contiene mapas, consejos de viaje, historia y recomendaciones sobre restaurantes y actividades culturales para explorar la ciudad que nunca duerme.",
+
+  "product_tokyo": "Kimono japonés",
+  "product_description_tokyo": "Kimono tradicional japonés de algodón con estampados inspirados en la cultura nipona. Confeccionado con materiales de alta calidad, este kimono es ideal tanto para vestir en ocasiones especiales como para lucirlo como una elegante prenda de descanso en casa.",
+
+  "product_paris": "Souvenir de París",
+  "product_description_paris": "Miniatura de la Torre Eiffel en metal, un clásico recuerdo de la ciudad del amor. Su diseño detallado y su acabado metálico lo convierten en una pieza ideal para decorar estanterías o escritorios con un toque parisino.",
+
+  "product_sydney": "Boomerang australiano",
+  "product_description_sydney": "Boomerang artesanal pintado a mano con motivos de la cultura aborigen australiana. Cada pieza es única, decorada con colores vibrantes y patrones tradicionales, lo que lo convierte en un excelente regalo o adorno cultural.",
+
+  "product_rio": "Figura del Cristo Redentor",
+  "product_description_rio": "Miniatura detallada del Cristo Redentor de Río de Janeiro, uno de los monumentos más famosos del mundo. Su diseño en resina captura la grandeza de esta icónica estatua, siendo un recuerdo perfecto para los viajeros enamorados de Brasil.",
+
+  "product_moscow": "Matrioshka rusa",
+  "product_description_moscow": "Conjunto de muñecas rusas tradicionales pintadas a mano, representando la icónica artesanía rusa. Estas muñecas anidadas simbolizan la familia y la continuidad, siendo una pieza decorativa única y llena de historia.",
+
+  "product_cairo": "Papiro egipcio",
+  "product_description_cairo": "Papiro auténtico hecho a mano con jeroglíficos egipcios que representan escenas del antiguo Egipto. Un recuerdo ideal para los entusiastas de la historia y la arqueología, perfecto para enmarcar y exhibir.",
+
+  "product_barcelona": "Vino español",
+  "product_description_barcelona": "Botella de vino tinto reserva de Barcelona, elaborado con uvas seleccionadas de viñedos catalanes. Su sabor equilibrado y aroma afrutado lo convierten en una excelente elección para acompañar cenas especiales y momentos inolvidables.",
+
+  "product_berlin": "Taza de Berlín",
+  "product_description_berlin": "Taza de cerámica con ilustraciones de los monumentos más emblemáticos de Berlín, como la Puerta de Brandeburgo y la Torre de Televisión. Perfecta para los amantes del café y los recuerdos de viaje.",
+
+  "product_dubai": "Perfume árabe",
+  "product_description_dubai": "Perfume con esencias exóticas de Dubái, inspirado en las fragancias tradicionales del Medio Oriente. Con notas de oud, ámbar y especias, este perfume ofrece una experiencia olfativa única y lujosa.",
+
+  "product_rome": "Café Italiano",
+  "product_description_rome": "Paquete de café espresso italiano de alta calidad, elaborado con granos seleccionados y tostados siguiendo la tradición italiana. Ideal para preparar un café con cuerpo y sabor intenso, digno de una auténtica cafetería de Roma.",
+
+  "product_beijing": "Figura de la Gran Muralla",
+  "product_description_beijing": "Miniatura de la Gran Muralla China en resina, capturando la majestuosidad de esta maravilla del mundo. Un recuerdo perfecto para quienes desean llevarse un pedazo de la historia y la cultura china a casa.",
+
+  "product_buenos_aires": "Bolsa de cuero argentino",
+  "product_description_buenos_aires": "Bolsa artesanal de cuero genuino de Buenos Aires, elaborada por expertos talabarteros. Su diseño elegante y duradero la convierte en un accesorio versátil para el uso diario o como un regalo especial.",
+
+  "product_los_angeles": "Camiseta de Hollywood",
+  "product_description_los_angeles": "Camiseta con el icónico cartel de Hollywood impreso, un clásico souvenir de Los Ángeles. Hecha con algodón suave y de alta calidad, es perfecta para los amantes del cine y la industria del entretenimiento.",
+
+  "product_bangkok": "Linterna tailandesa",
+  "product_description_bangkok": "Linterna de papel utilizada en festivales de Bangkok, decorada con patrones tradicionales tailandeses. Un hermoso adorno que simboliza la luz y la esperanza, ideal para celebraciones y decoración de interiores.",
+
+  "deleteProduct": "Eliminar Producto",
+  "confirmDeletion": "Confirmar eliminación",
+  "confirmDeleteProduct": "¿Estás seguro de que deseas eliminar este producto?",
+  "cancel": "Cancelar",
+  "delete": "Eliminar",
+
+
+
+  "shopping": "Productos"
+
+
+}
